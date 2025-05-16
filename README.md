@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+%26+Data+Science+Explorer" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=KhalkarYash&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
@@ -15,21 +15,21 @@
     <blockquote>
       <p>A passionate developer who loves to code and explore new technologies</p>
     </blockquote>
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🔭 Currently working on exciting web development projects</li>
-      <li>🌱 Learning and growing in <strong>Full Stack Development</strong> with MERN</li>
-      <li>👀 Interested in diving deeper into <strong>AI & Data Science</strong></li>
-      <li>💡 Open to collaborating on innovative web projects</li>
-      <li>📫 Reach me at: <a href="https://www.linkedin.com/in/yashkhalkar/">LinkedIn</a></li>
-      <li>😄 Pronouns: He/Him</li>
-    </ul>
+  <div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+      <ul>
+        <li>🔭 Currently working on exciting web development projects</li>
+        <li>🌱 Learning and growing in <strong>Full Stack Development</strong> with MERN</li>
+        <li>👀 Interested in diving deeper into <strong>AI & Data Science</strong></li>
+        <li>💡 Open to collaborating on innovative web projects</li>
+        <li>📫 Reach me at: <a href="https://www.linkedin.com/in/yashkhalkar/">LinkedIn</a></li>
+        <li>😄 Pronouns: He/Him</li>
+      </ul>
+    </div>
+    <div style="flex: 0 1 320px; margin-left: 20px;">
+      <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" style="max-width: 100%; height: auto;" alt="Coding illustration">
+    </div>
   </div>
-  <div style="flex: 0 0 320px; margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="320px" alt="Coding illustration">
-  </div>
-</div>
 </div>
 
 ## 🛠️ Tech Stack
@@ -146,6 +146,7 @@
 <br>
 
 ## 🌟 Words to Live By
+
 <div align="center">
   <blockquote>
     <p><i>"I'll make the computer an offer it can't refuse:"</i></p>

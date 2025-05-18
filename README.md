@@ -7,7 +7,7 @@
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=KhalkarYash&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KhalkarYash&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
 
 <div>
@@ -26,7 +26,7 @@
         <li>😄 Pronouns: He/Him</li>
       </ul>
     </div>
-    <div style="flex: 0 1 320px; margin-left: 20px;">
+    <div style="margin-left: 20px;">
       <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" style="max-width: 100%; height: auto;" alt="Coding illustration">
     </div>
   </div>
@@ -113,8 +113,8 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://twitter.com/yashkhalkar001">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://x.com/yashkhalkar001">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://linkedin.com/in/yashkhalkar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -124,6 +124,21 @@
   </a>
   <a href="https://medium.com/@yashmk2004">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.quora.com/profile/Yash-Khalkar">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora"/>
+  </a>
+  <a href="https://www.reddit.com/u/yashmk001">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="https://discordapp.com/users/1021414063772799056">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://stackoverflow.com/users/23572707/yash-khalkar">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://www.youtube.com/@yashkhalkar001">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
 
